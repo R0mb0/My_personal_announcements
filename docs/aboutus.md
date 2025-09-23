@@ -1,12 +1,9 @@
-<!-- # Il progetto -->
+<!-- # About me -->
 
 <div>
- <img align="right"  width="20%"  height="20%" src="https://avatars.githubusercontent.com/u/136621125?s=200&v=4">
- <h3>
-  "Pomodoro Musei di Pesaro" è una iniziativa nata dal desiderio di contribuire a migliorare in maniera innovativa alcune problematiche/aspetti riscontrati all'interno dell'ambito  museale di Pesaro.<br>
- </h3>
- L'unione tra il mondo artistico e il mondo tecnico informatico, può essere una combinazione vincente non solo per risolvere efficacemente le nuove problematiche legate all'ambiente museale, ma anche per valorizzare quest'ultimo in un periodo dove il tema dell'informatizzazione sta diventando sempre più importante.<br>
- <ul>
-   <li> <strong> Il rappresentante del progetto è "R0mb0"</strong> </li>
- </ul>
+  <h3>
+    Ciao! Mi chiamo <a href="mailto:f.rombaldoni@campus.uniurb.it">Francesco Rombaldoni</a> e sono uno studente lavoratore con una grande passione per l'informatica e tutto ciò che la riguarda.<br>
+    Sono iscritto alla laurea magistrale presso l'Università di Urbino in <a href="https://www.uniurb.it/corsi/1757269">Informatica e Innovazione Digitale</a> e, mentre proseguo gli studi, lavoro come assistente tecnico informatico presso l'<a href="https://www.inrca.it/inrca/">INRCA</a> di Ancona.<br><br>
+    Quello che più mi affascina dell'informatica è che si basa su macchine programmabili che, una volta impostate, possono funzionare in modo autonomo. Proprio per questo sono in grado di offrire diversi servizi a supporto delle persone e delle organizzazioni. <span style="font-size:1.2em;">&#x25C9;&#x25C9;</span>
+  </h3>
 </div>
