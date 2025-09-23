@@ -1,5 +1,5 @@
 # Name of website
-title: Pomodoro Musei di Pesaro
+title: R0mb0's Point
 
 # Your name to show in the footer
 author: Francesco Rombaldoni
@@ -11,7 +11,7 @@ author: Francesco Rombaldoni
 navbar-links:
   Il progetto: "aboutus"
   Risorse:
-    - GitHub: "https://github.com/Pomodoro-Musei-di-Pesaro"
+    - GitHub: "https://github.com/R0mb0/My_personal_announcements"
   #Author's home: "Author's url site"
 
 ################
@@ -61,7 +61,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Pomodoro Musei di Pesaro
+rss-description: R0mb0's Point
 
 ###########################
 # --- General options --- #
@@ -76,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/Pomodoro-Musei-di-Pesaro"
+url-pretty: "https://github.com/R0mb0/My_personal_announcements"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -102,17 +102,17 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#EAEAEA"
-navbar-col: "#F3B8B3"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-col: "#127369"
+navbar-text-col: "#4C5958"
+navbar-border-col: "#10403B"
+page-col: "#BFBFBF"
+text-col: "#4C5958"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 #footer-col: "#EAEAEA"
-footer-col: "#F3B8B3"
+footer-col: "#127369"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#4C5958"
 footer-hover-col: "#0085A1"
 
 #################################
