@@ -14,7 +14,7 @@ gh-repo: R0mb0/My_personal_announcements
 
   </span>
 
-  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 90%; min-width: 120px; max-width: 240px;">
+  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 70%; min-width: 120px; max-width: 240px;">
 
 </div>
 
