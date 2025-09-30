@@ -18,11 +18,11 @@ gh-repo: R0mb0/My_personal_announcements
 
 </div>
 
-#### Come si s'installa? 
+### Come si s'installa? 
 
 ##### Nel caso di un modem proprietario
 
-<img src="https://raw.githubusercontent.com/R0mb0/My_personal_announcements/refs/heads/main/Images/proprietary_modem.png" style="display:block;margin:auto;width:40%;">
+<img src="https://raw.githubusercontent.com/R0mb0/My_personal_announcements/refs/heads/main/Images/proprietary_modem.png" style="display:block;margin:auto;width:60%;">
 
 Nel caso di un modem proprietario si collega al modem il dispositivo di rete (quello con il case trasparente) e sempre allo stesso un router per ridistribuire la connessione che viene generata del dispositivo di rete.
 _La configurazione mostrata in figura non possiede un gruppo di continuità_
