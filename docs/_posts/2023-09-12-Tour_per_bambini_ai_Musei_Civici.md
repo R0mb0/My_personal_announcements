@@ -14,17 +14,28 @@ gh-repo: R0mb0/My_personal_announcements
 
   </span>
 
-  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 70%; min-width: 120px; max-width: 240px;">
+  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 90%; min-width: 120px; max-width: 240px;">
 
 </div>
 
 ### Come si s'installa? 
 
-##### Nel caso di un modem proprietario
+<h5 style="color: DodgerBlue;"> Nel caso di un modem proprietario </h5>
 
-<img src="https://raw.githubusercontent.com/R0mb0/My_personal_announcements/refs/heads/main/Images/proprietary_modem.png" style="display:block;margin:auto;width:60%;">
+<img src="https://raw.githubusercontent.com/R0mb0/My_personal_announcements/refs/heads/main/Images/proprietary_modem.png" style="display:block;margin:auto;width:90%;">
 
-Nel caso di un modem proprietario si collega al modem il dispositivo di rete (quello con il case trasparente) e sempre allo stesso un router per ridistribuire la connessione che viene generata del dispositivo di rete.
+Nel caso di un modem proprietario si collega il dispositivo di rete (quello con il case trasparente) e sempre allo stesso un router per ridistribuire la connessione che viene generata del dispositivo di rete.   
+
+_La configurazione mostrata in figura non possiede un gruppo di continuità_
+
+<br><br>
+
+<h5 style="color: DodgerBlue;"> Nel caso di un modem libero </h5>
+
+<img src="https://raw.githubusercontent.com/R0mb0/My_personal_announcements/refs/heads/main/Images/free_modem.png" style="display:block;margin:auto;width:90%;">
+
+Nel caso di un modem libero si collega il dispositivo di rete (quello con il case trasparente) e poi ri programma il modem per utilizzare la connessione creata dal dispositivo di rete.   
+
 _La configurazione mostrata in figura non possiede un gruppo di continuità_
 
 ___
