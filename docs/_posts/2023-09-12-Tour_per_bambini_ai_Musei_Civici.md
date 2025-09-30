@@ -1,33 +1,25 @@
 ---
 layout: post
-title: Tour per bambini ai Musei Civici
-subtitle: Guida per spiegare le Opere dei Musei civici ai bambini
-gh-repo: Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici
-gh-badge: [star, fork, follow]
-tags: []
-comments: true
+title: Potenzialmento connessione internet senza cambiare operatore
+subtitle: Installazione di un dispositivo che rende più efficiente la rete
+gh-repo: R0mb0/My_personal_announcements
 ---
-### Guida per il tour dei bambini  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Guida_per_Tour_Bambini_Musei_Civici.pdf)
-### Guida ingrandita per il tour dei bambini  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Guida_per_Tour_Bambini_Musei_Civici-Ingrandita.pdf)
-### Slides per presentazione tour  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Slides-Guida_per_Tour_Bambini_Musei_Civici.pdf)
-### Laboratorio creativo per Bambini basato sulle Opere dei Musei Civici  
-- Collega le descrizioni alle immagini  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Collega_le_Descrizioni_alle_Immagini.pdf)
-- Colora le opere  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Colora_le_Opere.pdf)
-- Trova le Opere  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Trova_le_Opere.pdf)
-- Puzzle sulle opere  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Puzzle_sulle_Opere.pdf)
-<a/>
 
-### Laboratorio: Test sulle opere dei Musei Civici  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio-Test.pdf)
+<div style="display: flex; align-items: center; gap: 20px;">
+
+ <span>
+    <h4 style="color: FireBrick;"> Pensi che il tuo internet non sia veloce quanto ti avevano promesso? </h4><br>
+    <h4 style="color: DodgerBlue;"> Allora sei nel posto giusto! </h4><br><br>
+     <p>Sono un infomatico appassionato di tecnologia ed ho realizzato un dispostivo di rete in grado di potenziare la connessione internet rendendo più efficiente la rete</p>
+
+  </span>
+
+  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 35%; min-width: 120px; max-width: 240px;">
+
+</div>
 
 ___
+
 #### License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
