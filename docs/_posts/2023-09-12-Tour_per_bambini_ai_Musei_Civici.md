@@ -10,13 +10,22 @@ gh-repo: R0mb0/My_personal_announcements
  <span>
     <h4 style="color: FireBrick;"> Pensi che il tuo internet non sia veloce quanto ti avevano promesso? </h4>
     <h4 style="color: DodgerBlue;"> Allora sei nel posto giusto! </h4>
-     <p>Sono un infomatico appassionato di tecnologia ed ho realizzato un dispostivo di rete in grado di potenziare la connessione internet rendendo più efficiente la rete</p>
+     <p>Sono un infomatico appassionato di tecnologia ed ho assemblato un dispostivo di rete in grado di potenziare la connessione internet rendendo più efficiente la rete</p>
 
   </span>
 
   <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 70%; min-width: 120px; max-width: 240px;">
 
 </div>
+
+#### Come si s'installa? 
+
+##### Nel caso di un modem proprietario
+
+<img src="https://raw.githubusercontent.com/R0mb0/My_personal_announcements/refs/heads/main/Images/proprietary_modem.png" style="display:block;margin:auto;width:40%;">
+
+Nel caso di un modem proprietario si collega al modem il dispositivo di rete (quello con il case trasparente) e sempre allo stesso un router per ridistribuire la connessione che viene generata del dispositivo di rete.
+_La configurazione mostrata in figura non possiede un gruppo di continuità_
 
 ___
 
