@@ -8,13 +8,13 @@ gh-repo: R0mb0/My_personal_announcements
 <div style="display: flex; align-items: center; gap: 20px;">
 
  <span>
-    <h4 style="color: FireBrick;"> Pensi che il tuo internet non sia veloce quanto ti avevano promesso? </h4><br>
-    <h4 style="color: DodgerBlue;"> Allora sei nel posto giusto! </h4><br><br>
+    <h4 style="color: FireBrick;"> Pensi che il tuo internet non sia veloce quanto ti avevano promesso? </h4>
+    <h4 style="color: DodgerBlue;"> Allora sei nel posto giusto! </h4>
      <p>Sono un infomatico appassionato di tecnologia ed ho realizzato un dispostivo di rete in grado di potenziare la connessione internet rendendo più efficiente la rete</p>
 
   </span>
 
-  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 35%; min-width: 120px; max-width: 240px;">
+  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/Internet/internet.png?raw=true" style="width: 65%; min-width: 120px; max-width: 240px;">
 
 </div>
 
