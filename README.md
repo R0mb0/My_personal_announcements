@@ -2,6 +2,7 @@
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e61e8ac6e0f418785358224f47f36d4)](https://app.codacy.com/gh/R0mb0/My_personal_announcements/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![pages-build-deployment](https://github.com/R0mb0/My_personal_announcements/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/My_personal_announcements/actions/workflows/pages/pages-build-deployment)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/My_personal_announcements)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/My_personal_announcements)
