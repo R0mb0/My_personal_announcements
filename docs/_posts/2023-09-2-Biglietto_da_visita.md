@@ -1,15 +1,62 @@
 ---
 layout: post
-title: Biglietto da visita
-subtitle: Biglietto da visita del progetto
-gh-repo: Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card
-gh-badge: [star, fork, follow]
-tags: []
-comments: true
+title: Riversimenti di materiale analogico in digitale 
+subtitle: Riversamenti di alta qualità a prezzi modici
+gh-repo: R0mb0/My_personal_announcements
 ---
-### Biglietto da visita
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/releases/download/v1.0/Biglietto_da_visita.pdf)
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+ <span>
+    <h4 style="color: FireBrick;"> Hai anche tu delle videocassette VHS o dei fimini in video8 che vorresti riversare in digitale? </h4>
+    <h4 style="color: DodgerBlue;"> Allora sei nel posto giusto! </h4>
+     <p>Sono un infomatico appassionato di tecnologia vintage che per riversare i miei contenuti analogici ho acquistato della strumentazione semiprofessionale.</p>
+
+  </span>
+
+  <img src="https://github.com/R0mb0/My_personal_announcements/blob/main/Buisness_cards/VHS/VHS.png?raw=true" style="width: 70%; min-width: 120px; max-width: 240px; mix-blend-mode: multiply;">
+
+</div>
+
+### Quali formati sono in grado di trattare? 
+
+<div align="center">
+    <ul list-style-type: none;>
+        <li style="color: DodgerBlue;"> VHS </li>
+        <li style="color: DodgerBlue;"> VHS-C </li>
+        <li style="color: DodgerBlue;"> Video8 </li>
+    </ul>
+</div>
+
+### In quali formati di memorizzazione salvo i contenuti? 
+
+<div align="center">
+    <ul list-style-type: none;>
+        <li style="color: DodgerBlue;"> HDD-USB <i>(di taglio proporzionato rispetto alla quantità da materiale)</i> </li>
+        <li style="color: DodgerBlue;"> Chiavette-USB <i>(di taglio proporzionato rispetto alla quantità da materiale)</i> </li>
+        <li style="color: DodgerBlue;"> Posso assemblare un multimedia Box da TV che non esita di un ulteriore telecomando per essere controllato </li>
+    </ul>
+</div>
+
+### Che cosa sarebbe il **Multimedia Box** ?
+
+Il **Multimedia Box** sarebbe un dispositivo compatto a basso consumo energetico che si connette al televisore tramite un cavo HDMI, controllabile utilizzando il telecomando del televisore, poiché viene sfruttato il protocollo di comunicazione HDMI-CEC che consente di convogliare i comandi del telecomando, al Multimedia Box tramite il TV. <br>
+Il dispositivo 
+
+<br>
+<div align="center">
+
+  <h5 style="color: DodgerBlue;"> Sei incuriositə? Allora non perdere tempo! </h5><br>
+
+ <a href="mailto:f.rombaldoni@campus.uniurb.it?subject=Potenziemento rete internet">
+  <img src="https://custom-icon-badges.demolab.com/badge/-CONTATTAMI!-blue?style=for-the-badge&logo=contact&logoColor=white" alt="Scrivimi una mail" style="width:50%;">
+</a>
+</div>
+<br>
+<br>
+
 ___
+
 #### License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
